@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Element>
+<web-app>
+  <display-name>Archetype Created Web Application</display-name>
+  <servlet>
+      <servlet-name>EmployeeInput</servlet-name>
+      <display-name>EmployeeInput</display-name>
+      <description></description>
+      <servlet-class>EmployeeTask_5.EmployeeInput</servlet-class>
+  </servlet>
+<servlet-mapping>
+      <servlet-name>EmployeeTask_5</servlet-name>
+      <url-pattern>/EmployeeTask_5</url-pattern>
+  </servlet-mapping>
+</web-app>
+</Element>
